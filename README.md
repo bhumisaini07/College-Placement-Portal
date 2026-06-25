@@ -108,39 +108,6 @@ Main.java
 ```
 
 ---
-
-## 📸 Screenshots
-
-### Home Page
-
-![Home Page](home_page.png)
-
-### Student Registration
-
-![Student Registration](student_registration.png)
-
-### Student Login
-
-![Student Login](screenshots/student_login.png)
-
-### Student Dashboard
-
-![Student Dashboard](screenshots/student_dashboard.png)
-
-### View Companies
-
-![View Companies](screenshots/view_companies.png)
-
-### Application Status
-
-![Application Status](screenshots/application_status.png)
-
-### Admin Dashboard
-
-![Admin Dashboard](screenshots/admin_dashboard.png)
-
----
-
 ## 🎯 Learning Outcomes
 
 Through this project I gained hands-on experience in:
