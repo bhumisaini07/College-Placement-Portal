@@ -113,11 +113,11 @@ Main.java
 
 ### Home Page
 
-![Home Page](screenshots/homepage.png)
+![Home Page](home_page.png)
 
 ### Student Registration
 
-![Student Registration](screenshots/student_registration.png)
+![Student Registration](student_registration.png)
 
 ### Student Login
 
